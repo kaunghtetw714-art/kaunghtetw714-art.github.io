@@ -1,0 +1,12 @@
+{
+  "homepage": "https://kaunghtetw714-art.github.io",
+  "name": "yolo-segmentation-app",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  }
+}
